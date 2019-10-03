@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmosotiel.bllsll.com/sitemap.xml
